@@ -11,5 +11,6 @@ public class Demo {
         System.out.println("git2");
         System.out.println("git3");
         System.out.println("flyfish");
+        System.out.println("git push first");
     }
 }
