@@ -5,7 +5,7 @@ package com.flyfish.queue;
  * @date: 2023/1/30 15:40
  * @description:
  */
-public class Demo {
+public class Aemo {
     public static void main(String[] args) {
         System.out.println("git1");
         System.out.println("git2");
